@@ -27,6 +27,11 @@
     scroll-padding-top: 4.5rem;
     -webkit-text-size-adjust: 100%;
   }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
   body {
     @apply bg-ivory font-sans text-[1.0625rem] leading-relaxed text-espresso antialiased;
     font-feature-settings: "kern", "liga";
