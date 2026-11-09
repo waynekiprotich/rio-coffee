@@ -26,6 +26,10 @@ Run these from the `client` folder.
 | `npm run build`   | Build the site for production     |
 | `npm run preview` | Preview the production build      |
 
+## Production build
+
+`npm run build` writes the static site to `client/dist`. Serve that folder from any static host.
+
 ## Project layout
 
 ```
