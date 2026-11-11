@@ -38,6 +38,10 @@ Run these from the `client` folder.
 
 Photos live in `client/public/images` as WebP pairs named `<name>-800.webp` and `<name>-1600.webp`. Pass the shared `<name>` to the `Photo` component in `client/src/components/Photo.jsx` and it builds the responsive `srcSet` for both sizes.
 
+## Business details
+
+Contact info, opening hours and socials are kept in `client/src/data/site.js`. Fields left as empty strings are treated as unconfirmed, and the UI hides or softens anything blank, so fill them in only with confirmed details.
+
 ## Project layout
 
 ```
