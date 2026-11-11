@@ -8,6 +8,10 @@ Frontend website for Rio Coffee and Restaurant (@riocoffee.ke).
 - Vite
 - Tailwind CSS 4
 
+## Requirements
+
+Node.js 22 (see `client/.nvmrc`). With nvm, run `nvm use` inside `client`.
+
 ## Getting started
 
 ```bash
