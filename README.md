@@ -42,6 +42,10 @@ Photos live in `client/public/images` as WebP pairs named `<name>-800.webp` and 
 
 Contact info, opening hours and socials are kept in `client/src/data/site.js`. Fields left as empty strings are treated as unconfirmed, and the UI hides or softens anything blank, so fill them in only with confirmed details.
 
+## Design tokens
+
+Colors and fonts are defined in the Tailwind `@theme` block in `client/src/index.css`: espresso, espresso-deep, ivory, paper, bean, crema, burgundy and logo for color, with Newsreader (serif) and Hanken Grotesk (sans) loaded from Google Fonts.
+
 ## Project layout
 
 ```
