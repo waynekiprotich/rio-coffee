@@ -1,0 +1,1 @@
+- 2026-11-12 09:00 note 1: reviewed menu and layout tasks
