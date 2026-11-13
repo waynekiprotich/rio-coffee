@@ -2,3 +2,4 @@
 - 2026-11-12 11:00 note 2: reviewed menu and layout tasks
 - 2026-11-12 14:00 note 3: reviewed menu and layout tasks
 - 2026-11-12 17:00 note 4: reviewed menu and layout tasks
+- 2026-11-13 09:00 note 5: reviewed menu and layout tasks
