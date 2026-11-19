@@ -23,6 +23,8 @@ npm run dev
 
 ## Scripts
 
+All scripts are defined in `client/package.json`.
+
 Run these from the `client` folder.
 
 | Command           | What it does                      |
