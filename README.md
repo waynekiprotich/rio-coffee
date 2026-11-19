@@ -87,3 +87,7 @@ The site targets current versions of Chrome, Safari, Firefox and Edge.
 ## Contact
 
 Follow Rio Coffee on Instagram at @riocoffee.ke.
+
+## Deployment
+
+Upload the contents of `client/dist` to any static host.
