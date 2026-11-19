@@ -83,3 +83,7 @@ Open a pull request with a short description of your change.
 ## Browser support
 
 The site targets current versions of Chrome, Safari, Firefox and Edge.
+
+## Contact
+
+Follow Rio Coffee on Instagram at @riocoffee.ke.
