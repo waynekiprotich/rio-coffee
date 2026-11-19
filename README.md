@@ -63,3 +63,7 @@ client/
   src/        React components and app entry
   index.html  Vite entry HTML
 ```
+
+## Local preview
+
+After `npm run dev`, open the URL Vite prints, usually http://localhost:5173.
