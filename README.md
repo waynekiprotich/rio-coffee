@@ -75,3 +75,7 @@ client/
 ## Local preview
 
 After `npm run dev`, open the URL Vite prints, usually http://localhost:5173.
+
+## Contributing
+
+Open a pull request with a short description of your change.
