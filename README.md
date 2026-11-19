@@ -11,6 +11,8 @@ Frontend website for Rio Coffee and Restaurant (@riocoffee.ke), a responsive sin
 
 ## Requirements
 
+Install Node.js before you start.
+
 Node.js 22 (see `client/.nvmrc`). With nvm, run `nvm use` inside `client`.
 
 ## Getting started
