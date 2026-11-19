@@ -103,3 +103,7 @@ Images ship as WebP pairs so phones load the smaller size.
 ## Troubleshooting
 
 If `npm run dev` fails, delete `client/node_modules` and run `npm install` again.
+
+## Fonts
+
+Newsreader and Hanken Grotesk load from Google Fonts in `client/index.html`.
