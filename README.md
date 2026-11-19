@@ -1,6 +1,6 @@
 # Rio Coffee and Restaurant
 
-Frontend website for Rio Coffee and Restaurant (@riocoffee.ke).
+Frontend website for Rio Coffee and Restaurant (@riocoffee.ke), a responsive single-page site.
 
 ## Stack
 
