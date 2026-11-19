@@ -51,6 +51,8 @@ Contact info, opening hours and socials are kept in `client/src/data/site.js`. F
 
 ## Design tokens
 
+Change tokens in one place so the whole site stays consistent.
+
 Colors and fonts are defined in the Tailwind `@theme` block in `client/src/index.css`: espresso, espresso-deep, ivory, paper, bean, crema, burgundy and logo for color, with Newsreader (serif) and Hanken Grotesk (sans) loaded from Google Fonts.
 
 ## Project layout
