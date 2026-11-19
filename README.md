@@ -41,6 +41,8 @@ Run the build from the `client` folder.
 
 ## Images
 
+Keep images compressed before adding them.
+
 Photos live in `client/public/images` as WebP pairs named `<name>-800.webp` and `<name>-1600.webp`. Pass the shared `<name>` to the `Photo` component in `client/src/components/Photo.jsx` and it builds the responsive `srcSet` for both sizes.
 
 ## Business details
