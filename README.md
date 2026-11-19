@@ -63,6 +63,8 @@ Colors and fonts are defined in the Tailwind `@theme` block in `client/src/index
 
 ## Project layout
 
+The site lives entirely in the `client` folder.
+
 ```
 client/
   public/     Static assets and optimized images
