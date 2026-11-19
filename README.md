@@ -91,3 +91,7 @@ Follow Rio Coffee on Instagram at @riocoffee.ke.
 ## Deployment
 
 Upload the contents of `client/dist` to any static host.
+
+## Accessibility
+
+Use descriptive alt text for every image and keep color contrast readable.
