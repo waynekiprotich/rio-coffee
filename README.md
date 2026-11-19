@@ -35,6 +35,8 @@ Run these from the `client` folder.
 
 ## Production build
 
+Run the build from the `client` folder.
+
 `npm run build` writes the static site to `client/dist`. Serve that folder from any static host.
 
 ## Images
