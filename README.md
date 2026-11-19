@@ -17,6 +17,8 @@ Node.js 22 (see `client/.nvmrc`). With nvm, run `nvm use` inside `client`.
 
 ## Getting started
 
+Clone the repo, then follow these steps.
+
 ```bash
 cd client
 npm install
