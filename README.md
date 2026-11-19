@@ -95,3 +95,7 @@ Upload the contents of `client/dist` to any static host.
 ## Accessibility
 
 Use descriptive alt text for every image and keep color contrast readable.
+
+## Performance
+
+Images ship as WebP pairs so phones load the smaller size.
