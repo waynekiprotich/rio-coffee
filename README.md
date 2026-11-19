@@ -111,3 +111,7 @@ Newsreader and Hanken Grotesk load from Google Fonts in `client/index.html`.
 ## Versioning
 
 The site follows simple dated commits on the main branch.
+
+## License
+
+All rights reserved by Rio Coffee and Restaurant.
