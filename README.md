@@ -51,6 +51,8 @@ Photos live in `client/public/images` as WebP pairs named `<name>-800.webp` and 
 
 ## Business details
 
+Update these before launch.
+
 Contact info, opening hours and socials are kept in `client/src/data/site.js`. Fields left as empty strings are treated as unconfirmed, and the UI hides or softens anything blank, so fill them in only with confirmed details.
 
 ## Design tokens
