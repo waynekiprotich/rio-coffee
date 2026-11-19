@@ -7,6 +7,7 @@ Frontend website for Rio Coffee and Restaurant (@riocoffee.ke), a responsive sin
 - React 19
 - Vite
 - Tailwind CSS 4
+- Node.js 22
 
 ## Requirements
 
