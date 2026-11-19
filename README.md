@@ -99,3 +99,7 @@ Use descriptive alt text for every image and keep color contrast readable.
 ## Performance
 
 Images ship as WebP pairs so phones load the smaller size.
+
+## Troubleshooting
+
+If `npm run dev` fails, delete `client/node_modules` and run `npm install` again.
