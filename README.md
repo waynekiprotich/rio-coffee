@@ -107,3 +107,7 @@ If `npm run dev` fails, delete `client/node_modules` and run `npm install` again
 ## Fonts
 
 Newsreader and Hanken Grotesk load from Google Fonts in `client/index.html`.
+
+## Versioning
+
+The site follows simple dated commits on the main branch.
